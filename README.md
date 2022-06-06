@@ -1,2 +1,2 @@
 # Desafio Dio
-## Recriando a pagina inicial da NETFILX.
+## Recriando a página inicial do Instagram.
